@@ -16,7 +16,7 @@ Queries : describe 2 queries:
 
 Problem query : cannot use 2 inequality in the same query.
 
-solution : use 2 qiery, Query Session to find all session before 7 pm ( 19 ) and query session to find all typeofsession that doesn't equal workshop . with a for loop go through both query to find matching session returned and append them to a list. return the list.  
+solution : use 2 query, Query Session to find all session before 7 pm ( 19 ) and query session to find all typeofsession that doesn't equal workshop . with a for loop go through both query to find matching session returned and append them to a list. return the list.  
 
 
 ## Setup Instructions
